@@ -1,0 +1,1 @@
+{"TomatoSeed":{"Coin":-1},"PotatoSeed":{"Coin":-1},"CarrotSeed":{"Coin":-1},"ChiliSeed":{"Coin":-1},"ArtichokeSeed":{"Diamond":2,"Coin":20},"CornSeed":{"Diamond":7},"EggplantSeed":{"Coin":15},"Potato":{"Diamond":16},"Corn":{"Diamond":16},"Carrot":{"Diamond":20},"Chili":{"Diamond":18},"Artichoke":{"Diamond":20},"Eggplant":{"Diamond":17},"Tomato":{"Diamond":19}}

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3256104421064886181
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3256104421064886182}
+  - component: {fileID: 3256104421064886105}
+  - component: {fileID: 3256104421064886183}
+  - component: {fileID: 3256104421064886180}
+  m_Layer: 0
+  m_Name: Artichoke_Plant
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3256104421064886182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256104421064886181}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3256104421064886105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256104421064886181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e5837e1db8c7a45a6933a9dc94301a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: Artichoke
+  _product: {fileID: 3057675692530835814, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  _harvestAmount: 5
+  _isRegrow: 1
+--- !u!114 &3256104421064886183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256104421064886181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7fc9710b514104db5d2096fee1fea0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _state:
+  - {fileID: 5004531278555049960, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -5568842699155709627, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -7143087039398124151, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -2249434992766814959, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: 2393381137972445386, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  _timePerState:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 2
+  _harvestState: 4
+--- !u!114 &3256104421064886180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256104421064886181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0c34f907d402741bc321bcd34ecf29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Info: {fileID: 0}
+  State: {fileID: 0}
+  Cell: {fileID: 0}
+  Render: {fileID: 0}
+  CurrentState: 1
+  _beginStateTime: 0

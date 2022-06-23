@@ -1,0 +1,16 @@
+[
+"TomatoSeed=Seed of Tomato",
+"PotatoSeed=Seed of Potato",
+"CarrotSeed=Seed of Carrot",
+"ChiliSeed=Seed of Chili",
+"ArtichokeSeed=Seed of Artichoke",
+"CornSeed=Seed of Corn",
+"EggplantSeed=Seed of Eggplant",
+"Tomato=Product of Tomato plant",
+"Potato=Product of Potato plant",
+"Carrot=Product of Carrot plant",
+"Chili=Product of Chili plant",
+"Artichoke=Product of Artichoke plant",
+"Corn=Product of Corn plant",
+"Eggplant=Product of Eggplant plant",
+]

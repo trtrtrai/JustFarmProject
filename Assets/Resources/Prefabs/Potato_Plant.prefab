@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6632201171099070401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6632201171099070405}
+  - component: {fileID: 6632201171099070404}
+  - component: {fileID: 6632201171099070403}
+  - component: {fileID: 6632201171099070402}
+  m_Layer: 0
+  m_Name: Potato_Plant
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6632201171099070405
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6632201171099070401}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2587254, y: 0.98769647, z: -2.1099584}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6632201171099070404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6632201171099070401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e5837e1db8c7a45a6933a9dc94301a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: Potato
+  _product: {fileID: 6211092494976579438, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  _harvestAmount: 7
+  _isRegrow: 0
+--- !u!114 &6632201171099070403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6632201171099070401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce7fc9710b514104db5d2096fee1fea0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _state:
+  - {fileID: -1927889906097043966, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -810785574404401188, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: 3275049470109395508, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -4231635334726906192, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  - {fileID: -5286125387984224900, guid: 95a3ec1a52db5c744853feffa8de3098, type: 3}
+  _timePerState:
+  - 1
+  - 2
+  - 3
+  - 3
+  - -1
+  _harvestState: 4
+--- !u!114 &6632201171099070402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6632201171099070401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0c34f907d402741bc321bcd34ecf29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Info: {fileID: 0}
+  State: {fileID: 0}
+  Cell: {fileID: 0}
+  Render: {fileID: 0}
+  CurrentState: 1

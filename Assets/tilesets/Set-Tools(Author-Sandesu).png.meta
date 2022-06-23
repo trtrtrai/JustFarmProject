@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 26e5e86a2b010cf408489f7094a58077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5359762433762616805
+    second: Set-Tools(Author-Sandesu)_0
+  - first:
+      213: 531942293153801067
+    second: Set-Tools(Author-Sandesu)_1
+  - first:
+      213: 4159047691301333977
+    second: Set-Tools(Author-Sandesu)_2
+  - first:
+      213: 7198597588305407866
+    second: Set-Tools(Author-Sandesu)_3
+  - first:
+      213: -331275382925506702
+    second: Set-Tools(Author-Sandesu)_4
+  - first:
+      213: -5975039878305301777
+    second: Set-Tools(Author-Sandesu)_5
+  - first:
+      213: 5730647000392869231
+    second: Set-Tools(Author-Sandesu)_6
+  - first:
+      213: 5990161104017571600
+    second: Set-Tools(Author-Sandesu)_7
+  - first:
+      213: -358592321532981793
+    second: Set-Tools(Author-Sandesu)_8
+  - first:
+      213: -3251885623905567672
+    second: Set-Tools(Author-Sandesu)_9
+  - first:
+      213: -5513128416301339133
+    second: Set-Tools(Author-Sandesu)_10
+  - first:
+      213: 616316501709728851
+    second: Set-Tools(Author-Sandesu)_11
+  - first:
+      213: 4688579667122698860
+    second: Set-Tools(Author-Sandesu)_12
+  - first:
+      213: -5076571598977378901
+    second: Set-Tools(Author-Sandesu)_13
+  - first:
+      213: 936170299505660232
+    second: Set-Tools(Author-Sandesu)_14
+  - first:
+      213: -2016328651201157414
+    second: Set-Tools(Author-Sandesu)_15
+  - first:
+      213: -2335010169746869500
+    second: Set-Tools(Author-Sandesu)_16
+  - first:
+      213: -4561958170358467204
+    second: Set-Tools(Author-Sandesu)_17
+  - first:
+      213: -3854695562590196660
+    second: Set-Tools(Author-Sandesu)_18
+  - first:
+      213: -4383444361250994172
+    second: Set-Tools(Author-Sandesu)_19
+  - first:
+      213: -3626573143048129006
+    second: Set-Tools(Author-Sandesu)_20
+  - first:
+      213: 7959622328519114050
+    second: Set-Tools(Author-Sandesu)_21
+  - first:
+      213: 4267137030626597295
+    second: Set-Tools(Author-Sandesu)_22
+  - first:
+      213: 2423559890643866210
+    second: Set-Tools(Author-Sandesu)_23
+  - first:
+      213: 8858897248958241965
+    second: Set-Tools(Author-Sandesu)_24
+  - first:
+      213: 2883447868893421824
+    second: Set-Tools(Author-Sandesu)_25
+  - first:
+      213: 3633387353165166896
+    second: Set-Tools(Author-Sandesu)_26
+  - first:
+      213: 5309678251723110010
+    second: Set-Tools(Author-Sandesu)_27
+  - first:
+      213: -8341426120544544322
+    second: Set-Tools(Author-Sandesu)_28
+  - first:
+      213: 8253918915342528355
+    second: Set-Tools(Author-Sandesu)_29
+  - first:
+      213: -5575955826363173849
+    second: Set-Tools(Author-Sandesu)_30
+  - first:
+      213: -8536158975054195092
+    second: Set-Tools(Author-Sandesu)_31
+  - first:
+      213: -2772586860906609531
+    second: Set-Tools(Author-Sandesu)_32
+  - first:
+      213: -960286940017097165
+    second: Set-Tools(Author-Sandesu)_33
+  - first:
+      213: 3976383355286560467
+    second: Set-Tools(Author-Sandesu)_34
+  - first:
+      213: 1460143494720795692
+    second: Set-Tools(Author-Sandesu)_35
+  - first:
+      213: 8852810923940072131
+    second: Set-Tools(Author-Sandesu)_36
+  - first:
+      213: -6318217905547558608
+    second: Set-Tools(Author-Sandesu)_37
+  - first:
+      213: -3662280086663365965
+    second: Set-Tools(Author-Sandesu)_38
+  - first:
+      213: 8985458749961574055
+    second: Set-Tools(Author-Sandesu)_39
+  - first:
+      213: -88891993199509785
+    second: Set-Tools(Author-Sandesu)_40
+  - first:
+      213: -8947223036925804595
+    second: Set-Tools(Author-Sandesu)_41
+  - first:
+      213: 6567750232728524116
+    second: Set-Tools(Author-Sandesu)_42
+  - first:
+      213: 874863287021042345
+    second: Set-Tools(Author-Sandesu)_43
+  - first:
+      213: -8444784868363692878
+    second: Set-Tools(Author-Sandesu)_44
+  - first:
+      213: 4035378008233057305
+    second: Set-Tools(Author-Sandesu)_45
+  - first:
+      213: 4261647912927042384
+    second: Set-Tools(Author-Sandesu)_46
+  - first:
+      213: -3963639744185487065
+    second: Set-Tools(Author-Sandesu)_47
+  - first:
+      213: -8894514042461922732
+    second: Set-Tools(Author-Sandesu)_48
+  - first:
+      213: 5965868500135874580
+    second: Set-Tools(Author-Sandesu)_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e567e84983b16a40800000000000000
+      internalID: 5359762433762616805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63607082b6d16700800000000000000
+      internalID: 531942293153801067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbace3f6d7e7b930800000000000000
+      internalID: 4159047691301333977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6de3ed5e86e360800000000000000
+      internalID: 7198597588305407866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c4ed5bc2176bf0800000000000000
+      internalID: -331275382925506702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab1d643e4641da0800000000000000
+      internalID: -5975039878305301777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652397a519578f40800000000000000
+      internalID: 5730647000392869231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f345079c3512350800000000000000
+      internalID: 5990161104017571600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd08d7fe26060bf0800000000000000
+      internalID: -358592321532981793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb8e8114bfed2d0800000000000000
+      internalID: -3251885623905567672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2f394aee6d73b0800000000000000
+      internalID: -5513128416301339133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cae99c7989d8800800000000000000
+      internalID: 616316501709728851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab7f7bd5e211140800000000000000
+      internalID: 4688579667122698860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5dd1e07056c89b0800000000000000
+      internalID: -5076571598977378901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415e476de1fdfc00800000000000000
+      internalID: 936170299505660232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad666b256cf8404e0800000000000000
+      internalID: -2016328651201157414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403305d3f90689fd0800000000000000
+      internalID: -2335010169746869500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b79fd63ba0b0c0800000000000000
+      internalID: -4561958170358467204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c69821fce518ac0800000000000000
+      internalID: -3854695562590196660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40802f2f390ea23c0800000000000000
+      internalID: -4383444361250994172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f4a8d0f2dbadc0800000000000000
+      internalID: -3626573143048129006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d36adf552467e60800000000000000
+      internalID: 7959622328519114050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d966658ae73b30800000000000000
+      internalID: 4267137030626597295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26256b541e632a120800000000000000
+      internalID: 2423559890643866210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac57d98c1021fa70800000000000000
+      internalID: 8858897248958241965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001efb14f80140820800000000000000
+      internalID: 2883447868893421824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397ec41c826c6230800000000000000
+      internalID: 3633387353165166896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b291fc34cfa940800000000000000
+      internalID: 5309678251723110010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb917cc532d4d3c80800000000000000
+      internalID: -8341426120544544322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6ed9b58fcb8270800000000000000
+      internalID: 8253918915342528355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7247a56f7b93e92b0800000000000000
+      internalID: -5575955826363173849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d1a183a8798980800000000000000
+      internalID: -8536158975054195092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840fb690fac589d0800000000000000
+      internalID: -2772586860906609531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33685d9ad106ca2f0800000000000000
+      internalID: -960286940017097165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de91a60893fe2730800000000000000
+      internalID: 3976383355286560467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243ee3b5c8734410800000000000000
+      internalID: 1460143494720795692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca452191a08bda70800000000000000
+      internalID: 8852810923940072131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031435e4a4e2158a0800000000000000
+      internalID: -6318217905547558608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_38
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba717e2aa7fc2dc0800000000000000
+      internalID: -3662280086663365965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a692674023c2bc70800000000000000
+      internalID: 8985458749961574055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee77f1043134cef0800000000000000
+      internalID: -88891993199509785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf78d56d0415d380800000000000000
+      internalID: -8947223036925804595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d54b0a06552b50800000000000000
+      internalID: 6567750232728524116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7be93683242c00800000000000000
+      internalID: 874863287021042345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4969497e81eca80800000000000000
+      internalID: -8444784868363692878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c972b0bea800830800000000000000
+      internalID: 4035378008233057305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1dc7923a642b30800000000000000
+      internalID: 4261647912927042384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721343627a25ef8c0800000000000000
+      internalID: -3963639744185487065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a55518a96509480800000000000000
+      internalID: -8894514042461922732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set-Tools(Author-Sandesu)_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109a47dac50bc250800000000000000
+      internalID: 5965868500135874580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
