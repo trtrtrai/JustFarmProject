@@ -1,1 +1,1 @@
-["EggplantSeed-Seed-30","ArtichokeSeed-Seed-16","EggplantSeed-Seed-2","CarrotSeed-Seed-11","ChiliSeed-Seed-6","CornSeed-Seed-3","PotatoSeed-Seed-2","Artichoke-Product-26","Corn-Product-3","Tomato-Product-8","Potato-Product-18","Eggplant-Product-15","Carrot-Product-3"]
+["EggplantSeed-Seed-20","ArtichokeSeed-Seed-13","CarrotSeed-Seed-12","ChiliSeed-Seed-7","CornSeed-Seed-4","PotatoSeed-Seed-2","Artichoke-Product-36","Corn-Product-2","Tomato-Product-7","Potato-Product-18","Eggplant-Product-21","Carrot-Product-3"]

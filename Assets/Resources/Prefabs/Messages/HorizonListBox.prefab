@@ -187,7 +187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -429,7 +429,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4081634384102863104}
   m_HandleRect: {fileID: 4081634384102863231}
   m_Direction: 0
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -470,7 +470,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00002460111, y: 0}
+  m_AnchoredPosition: {x: -0.000008866191, y: 0}
   m_SizeDelta: {x: 0, y: 134.988}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &4081634384747741608
@@ -493,7 +493,7 @@ MonoBehaviour:
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 179.982, y: 119.988}
+  m_CellSize: {x: 203.31001, y: 135.54001}
   m_Spacing: {x: 15, y: 15}
   m_Constraint: 2
   m_ConstraintCount: 1
@@ -525,8 +525,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   grid: {fileID: 4081634384747741608}
   listItemPage: {fileID: 4081634384052431141}
-  sizeX: 179.982
-  sizeY: 119.988
+  sizeX: 203.31001
+  sizeY: 135.54001
   col: 0
   row: 1
   ratio: 1.5

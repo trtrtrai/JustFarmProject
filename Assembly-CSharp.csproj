@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Models\Soil\EmptySoil.cs" />
     <Compile Include="Assets\Scripts\Controllers\NotificationManager.cs" />
     <Compile Include="Assets\Scripts\Controllers\ToolManager.cs" />
+    <Compile Include="Assets\Scripts\Controllers\Others\ClickToSkip.cs" />
     <Compile Include="Assets\Scripts\Models\Plant\PlantInfo.cs" />
     <Compile Include="Assets\Scripts\Models\Item\ItemCell.cs" />
     <Compile Include="Assets\Scripts\Controllers\ShopManager.cs" />
@@ -92,7 +93,6 @@
     <Compile Include="Assets\Scripts\PlantData.cs" />
     <Compile Include="Assets\Scripts\Controllers\SettingController.cs" />
     <Compile Include="Assets\Scripts\Controllers\DontDestroyMng.cs" />
-    <Compile Include="Assets\Scripts\Controllers\Others\ClickToSkip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Data\cropDatas.txt" />

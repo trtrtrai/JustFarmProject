@@ -85,17 +85,17 @@ namespace Assets.Scripts.Controllers
             _tool = MyHand.GetComponentInChildren<MouseFollow>() == null ? CreateTool() : MyHand.GetComponentInChildren<MouseFollow>().gameObject;
             Selected = item;
 
-            _tool.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Seeds/" + Selected.Model.Name);
+            Cursor.SetCursor(Selected.Model.Image.texture, Vector2.zero, CursorMode.Auto);
             _tool.name = Selected.Model.Name;
         }
 
-        public void Choose(int index)
+        public void Choose(string name)
         {
             _tool = MyHand.GetComponentInChildren<MouseFollow>() == null ? CreateTool() : MyHand.GetComponentInChildren<MouseFollow>().gameObject;
-            var img = tools[index].GetComponentInChildren<Image>().sprite;
+            var img = Resources.Load<Sprite>("Prefabs/" + name);
 
-            _tool.GetComponent<SpriteRenderer>().sprite = img;
-            _tool.name = tools[index].name;
+            Cursor.SetCursor(img.texture, Vector2.zero, CursorMode.Auto);
+            _tool.name = name;
         }
 
         private GameObject CreateTool()
@@ -146,15 +146,20 @@ namespace Assets.Scripts.Controllers
 
         private void Update()
         {
-            if (_tool != null && _tool.GetComponent<SpriteRenderer>().sprite != null)
+            if (_tool != null && _tool.GetComponentsInChildren<Transform>().Length != 0)
             {
                 if (Input.GetKeyDown(KeyCode.Mouse0))
                 {
+                    //Debug.Log("Clicked");
                     StartCoroutine("ResetTapTime");
                     tapTimes++;
                 }
 
-                if (tapTimes == 2) Destroy(_tool);
+                if (tapTimes == 2)
+                {
+                    Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+                    Destroy(_tool);
+                }
             }
         }
         #endregion

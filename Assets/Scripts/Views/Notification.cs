@@ -20,7 +20,7 @@ namespace Assets.Scripts.Views
         private void Awake()
         {
             NotifyManager = gameObject.GetComponentInParent<NotificationManager>();
-            TitleObj = gameObject.transform.GetChild(0).gameObject;
+            TitleObj = gameObject.transform.GetChild(0).gameObject.transform.GetChild(4).gameObject;
             Content = gameObject.transform.GetChild(1).gameObject;
             NavObj = gameObject.transform.GetChild(2).gameObject;
             NavButtons = new Dictionary<Button, string>();
