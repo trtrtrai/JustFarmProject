@@ -1,5 +1,6 @@
 using UnityEngine.SceneManagement;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace Assets.Scripts.Controllers
 {
@@ -8,6 +9,7 @@ namespace Assets.Scripts.Controllers
         //Need to save into data
         public float MusicVolume;
         public float SoundVolume;
+        public string ThisScene;
 
         // Start is called before the first frame update
         void Start()
@@ -21,10 +23,16 @@ namespace Assets.Scripts.Controllers
             }
 
             DontDestroyOnLoad(gameObject);
+
+            //this is Create data in static class
+            DataLoader.LoadItemObjPrice();
+            DataLoader.LoadItemObjDes();
+            DataLoader.LoadItemMax();
         }
 
         public void SwapScene(string name)
         {
+            ThisScene = name;
             SceneManager.LoadScene(name);
         }
 

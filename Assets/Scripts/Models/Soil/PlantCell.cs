@@ -33,23 +33,6 @@ namespace Assets.Scripts.Models.Soil
             Crop = new List<Plant>(); //All Crop used in this script code with 1 clant per cell and will be update soon
         }
 
-        private void Start()
-        {
-            //Debug.Log(mng.Datas.plantCells[Index - 1].IsLocked);
-            var data = mng.Datas.plantCells[Index - 1];
-            IsLocked = data.IsLocked;         
-
-            _plantPerCell = data.PlantPerCell;
-            _cropInCell = data.CropInCell;
-
-            for (int i = 0; i < CropInCell; i++)
-            {
-                PlantCrop(data.PrefabCropName, data.Crop[i].CurrentState, data.Crop[i].Timer);
-            }
-
-            emptySoil.InitialScene();
-        }
-
         private void Update()
         {
             if (IsLocked) gameObject.GetComponent<SpriteRenderer>().color = LockColor;
@@ -168,6 +151,23 @@ namespace Assets.Scripts.Models.Soil
             Crop.Add(script);
             Crop[0].gameObject.transform.localPosition = new Vector3(0, 0, 0);
             Crop[0].Planted(currentState, timer);
+        }
+
+        public void LoadData()
+        {
+            //Debug.Log(mng.Datas.plantCells[Index - 1].IsLocked);
+            var data = mng.Datas.plantCells[Index - 1];
+            IsLocked = data.IsLocked;
+
+            _plantPerCell = data.PlantPerCell;
+            _cropInCell = data.CropInCell;
+
+            for (int i = 0; i < CropInCell; i++)
+            {
+                PlantCrop(data.PrefabCropName, data.Crop[i].CurrentState, data.Crop[i].Timer);
+            }
+
+            emptySoil.InitialScene();
         }
     }
 }

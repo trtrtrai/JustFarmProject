@@ -1,1 +1,1 @@
-["Coin=148","Diamond=66"]
+["Coin=97","Diamond=77"]

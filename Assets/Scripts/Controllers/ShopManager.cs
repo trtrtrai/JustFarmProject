@@ -44,6 +44,10 @@ namespace Assets.Scripts.Controllers
             shopType = new Dictionary<string, List<string>>();
             shopDatas = new Dictionary<string, Dictionary<string, int>>();
             shopPrice = new Dictionary<string, Dictionary<string, long>>();
+        }
+
+        private void Start()
+        {
             Load();
         }
 

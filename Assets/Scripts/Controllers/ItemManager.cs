@@ -27,11 +27,15 @@ namespace Assets.Scripts.Controllers
             listItemCell = new List<GameObject>();
             inventory = gameObject.AddComponent<Storage>();
             inventory.InventoryChange += UpdateStorageUI;
+        }
+
+        private void Start()
+        {
             inventory.Load();
 
             storageInfo.GetComponent<Text>().text = $"{inventory.Items.Count}/{inventory.Capacity}";
         }
-        
+
         private void OnDestroy()
         {
             inventory.InventoryChange -= UpdateStorageUI;

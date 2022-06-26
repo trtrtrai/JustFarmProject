@@ -49,16 +49,18 @@ namespace Assets.Scripts.Controllers
         private void Awake()
         {
             scripts = new List<PlantCell>(gameObject.GetComponentsInChildren<PlantCell>());
+        }
+
+        private void Start()
+        {
             Load();
-            //this is Create data in static class
-            DataLoader.LoadItemObjPrice();
-            DataLoader.LoadItemObjDes();
-            DataLoader.LoadItemMax();
+
+            scripts.ForEach((s) => s.LoadData());
         }
 
         private void OnDestroy()
         {
-            Save();
+            Save(); 
         }
 
         public void UnlockNewField(int index)

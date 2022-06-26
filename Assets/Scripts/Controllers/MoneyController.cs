@@ -22,13 +22,13 @@ namespace Assets.Scripts.Controllers
 
         private void Awake()
         {
-            Load();
+            
         }
 
         // Start is called before the first frame update
         void Start()
         {
-            
+            Load();
         }
 
         // Update is called once per frame

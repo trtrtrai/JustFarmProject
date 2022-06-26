@@ -39705,6 +39705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MusicVolume: 1
   SoundVolume: 1
+  ThisScene: 
 --- !u!4 &946378554
 Transform:
   m_ObjectHideFlags: 0
@@ -49802,8 +49803,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 946378553}
-        m_TargetAssemblyTypeName: DontDestroyMng, Assembly-CSharp
+      - m_Target: {fileID: 1457429230}
+        m_TargetAssemblyTypeName: Manager, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
