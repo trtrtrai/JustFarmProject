@@ -50,7 +50,7 @@ namespace Assets.Scripts.Controllers
             data.Add($"{Diamond.Name}={Diamond.Coin}");
 
             JsonSerializer serializer = new JsonSerializer();
-            using (StreamWriter streamWriter = new StreamWriter(Application.dataPath + "/Data/currency.txt"))
+            using (StreamWriter streamWriter = new StreamWriter(Application.streamingAssetsPath + "/Data/currency.txt"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 serializer.Serialize(writer, data);
@@ -59,7 +59,7 @@ namespace Assets.Scripts.Controllers
 
         public void Load()
         {
-            var file = Application.dataPath + "/Data/currency.txt";
+            var file = Application.streamingAssetsPath + "/Data/currency.txt";
             if (!File.Exists(file))
             {
                 Save();

@@ -1,0 +1,16 @@
+[
+"TomatoSeed=3-Coin",
+"PotatoSeed=3-Coin",
+"CarrotSeed=3-Coin",
+"ChiliSeed=3-Coin",
+"ArtichokeSeed=3-Coin",
+"CornSeed=3-Coin",
+"EggplantSeed=3-Coin",
+"Tomato=1-Coin",
+"Potato=2-Coin",
+"Corn=1-Diamond",
+"Carrot=3-Coin",
+"Chili=1-Coin",
+"Artichoke=2-Coin",
+"Eggplant=5-Coin"
+]

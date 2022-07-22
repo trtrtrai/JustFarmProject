@@ -1,0 +1,1 @@
+{"Seed":["TomatoSeed","PotatoSeed","CarrotSeed","ChiliSeed","CornSeed","EggplantSeed","ArtichokeSeed"],"Product":["Tomato","Potato","Carrot","Chili","Corn","Eggplant","Artichoke"]}

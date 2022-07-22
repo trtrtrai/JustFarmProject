@@ -67,7 +67,7 @@ namespace Assets.Scripts
         public static bool LoadItemObjPrice()
         {
             itemObjPrice = new Dictionary<string, string>();
-            var file = Application.dataPath + "/Data/ItemObject_Price.txt";
+            var file = Application.streamingAssetsPath + "/Data/ItemObject_Price.txt";
             if (!File.Exists(file))
             {
                 return false;
@@ -87,7 +87,7 @@ namespace Assets.Scripts
         public static bool LoadItemObjDes()
         {
             itemObjDescription = new Dictionary<string, string>();
-            var file = Application.dataPath + "/Data/ItemObject_Description.txt";
+            var file = Application.streamingAssetsPath + "/Data/ItemObject_Description.txt";
             if (!File.Exists(file))
             {
                 return false;
@@ -107,7 +107,7 @@ namespace Assets.Scripts
         public static bool LoadItemMax()
         {
             itemMaxofType = new Dictionary<string, int>();
-            var file = Application.dataPath + "/Data/Item_MaxofType.txt";
+            var file = Application.streamingAssetsPath + "/Data/Item_MaxofType.txt";
             if (!File.Exists(file))
             {
                 return false;

@@ -20,14 +20,14 @@ namespace Assets.Scripts.Controllers
 
         public void Load()
         {
-            if(!File.Exists(Application.dataPath + "/Data/cropDatas.txt"))
+            if(!File.Exists(Application.streamingAssetsPath + "/Data/cropDatas.txt"))
             {
                 Save();
                 return;
             }
 
             JsonSerializer serializer = new JsonSerializer();
-            using (StreamReader sReader = new StreamReader(Application.dataPath + "/Data/cropDatas.txt"))
+            using (StreamReader sReader = new StreamReader(Application.streamingAssetsPath + "/Data/cropDatas.txt"))
             using (JsonReader jReader = new JsonTextReader(sReader))
             {
                 datas = serializer.Deserialize<CropData>(jReader);
@@ -39,7 +39,7 @@ namespace Assets.Scripts.Controllers
             datas = new CropData(scripts);
 
             JsonSerializer serializer = new JsonSerializer();
-            using (StreamWriter streamWriter = new StreamWriter(Application.dataPath + "/Data/cropDatas.txt"))
+            using (StreamWriter streamWriter = new StreamWriter(Application.streamingAssetsPath + "/Data/cropDatas.txt"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 serializer.Serialize(writer, datas);

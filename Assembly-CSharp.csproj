@@ -95,15 +95,15 @@
     <Compile Include="Assets\Scripts\Controllers\DontDestroyMng.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Data\cropDatas.txt" />
-    <None Include="Assets\Data\itemShop_Price.txt" />
-    <None Include="Assets\Data\Item_MaxofType.txt" />
-    <None Include="Assets\Data\ItemObject_Price.txt" />
-    <None Include="Assets\Data\storage.txt" />
-    <None Include="Assets\Data\currency.txt" />
-    <None Include="Assets\Data\itemShop_Type.txt" />
-    <None Include="Assets\Data\itemShop_Data.txt" />
-    <None Include="Assets\Data\ItemObject_Description.txt" />
+    <None Include="Assets\StreamingAssets\Data\cropDatas.txt" />
+    <None Include="Assets\StreamingAssets\Data\itemShop_Price.txt" />
+    <None Include="Assets\StreamingAssets\Data\Item_MaxofType.txt" />
+    <None Include="Assets\StreamingAssets\Data\ItemObject_Price.txt" />
+    <None Include="Assets\StreamingAssets\Data\storage.txt" />
+    <None Include="Assets\StreamingAssets\Data\currency.txt" />
+    <None Include="Assets\StreamingAssets\Data\itemShop_Type.txt" />
+    <None Include="Assets\StreamingAssets\Data\itemShop_Data.txt" />
+    <None Include="Assets\StreamingAssets\Data\ItemObject_Description.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

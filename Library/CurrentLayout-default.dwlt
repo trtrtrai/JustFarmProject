@@ -119,10 +119,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 723
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 66
+  controlID: 141
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 71
+  controlID: 63
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 72
+  controlID: 64
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 970
     height: 442
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 324
     height: 723
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -348,7 +348,7 @@ MonoBehaviour:
       y: 21
       width: 968
       height: 400
-    m_Scale: {x: 0.46296293, y: 0.46296296}
+    m_Scale: {x: 0.46296296, y: 0.46296296}
     m_Translation: {x: 484, y: 200}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -398,21 +398,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5436ffffe039ffffa644ffffbe44ffffa647ffffaa47ffff3248ffff4c48ffff144cffff1c4cffff4689ffff108cffffd6a0ffffd4aeffffeeaeffffb2b2ffffb6b2ffffd6b5ffff38c2ffff50c2ffff14c6ffff18c6ffff18dbffff30dbfffff4defffff8deffff2efbfffff4ffffff6e8900007a890000c0890000e08a00005c93000068930000ce940000349d0000409d0000a69e0000a8a800006cb40000
+      m_ExpandedIDs: 2065ffff3865fffffc68ffff0069ffff446affff686dffff086effff206effffe671ffffea71fffffc8dffff148effffea91fffffe91ffff8e9dffffa69dffff7ca1ffff90a1ffffa4adffffbcadffff82b1ffff86b1ffff12bbffff2abbfffff0befffff4beffff98c7ffffb0c7ffff7acbffff82cbffffccd4fffff0eaffff2cebfffffceeffff40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Manager
-        m_OriginalName: Manager
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -51896
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -458,9 +458,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 960, y: 540, z: 0}
+    m_Target: {x: 1123.0609, y: 497.02313, z: -61.576405}
     speed: 2
-    m_Value: {x: 959.9998, y: 539.9999, z: -0.00000005805346}
+    m_Value: {x: 1123.0609, y: 497.02313, z: -61.576405}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -511,9 +511,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 991.3082
+    m_Target: 614.0185
     speed: 2
-    m_Value: 991.30804
+    m_Value: 614.0185
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -576,33 +576,33 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/Prefabs
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets/Resources/Prefabs
+  - Assets/Scenes
   m_LastFoldersGridSize: 71
   m_LastProjectPath: D:\Unity\ProjectGame\ProjectFarm
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 68}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f0460000
     m_LastClickedID: 18160
-    m_ExpandedIDs: 00000000e0460000e2460000f846000000ca9a3b
+    m_ExpandedIDs: 00000000ce460000ea460000f446000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Currency
-      m_OriginalName: Currency
+      m_Name: Messages
+      m_OriginalName: Messages
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 18158
+      m_UserData: 18194
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e0460000e2460000
+    m_ExpandedIDs: 00000000ce460000d0460000d2460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

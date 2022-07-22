@@ -22,7 +22,7 @@ namespace Assets.Scripts.Models.Item
         private void Awake()
         {
             _items = new List<Item<IItem>>();
-            path = Application.dataPath + "/Data/"; //Class Path ??
+            path = Application.streamingAssetsPath + "/Data/"; //Class Path ??
             fileName = "storage.txt";
         }
 

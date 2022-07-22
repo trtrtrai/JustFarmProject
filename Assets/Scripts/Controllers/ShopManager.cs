@@ -53,16 +53,16 @@ namespace Assets.Scripts.Controllers
 
         public void Load()
         {
-            if (!File.Exists(Application.dataPath + "/Data/itemShop_Type.txt") && !File.Exists(Application.dataPath + "/Data/itemShop_Data.txt") && !File.Exists(Application.dataPath + "/Data/itemShop_Price.txt"))
+            if (!File.Exists(Application.streamingAssetsPath + "/Data/itemShop_Type.txt") && !File.Exists(Application.streamingAssetsPath + "/Data/itemShop_Data.txt") && !File.Exists(Application.streamingAssetsPath + "/Data/itemShop_Price.txt"))
             {
                 Save();
                 return;
             }
 
             JsonSerializer serializer = new JsonSerializer();
-            using (StreamReader sReader = new StreamReader(Application.dataPath + "/Data/itemShop_Type.txt"))
-            using(StreamReader sReader2 = new StreamReader(Application.dataPath + "/Data/itemShop_Data.txt"))
-            using(StreamReader sReader3 = new StreamReader(Application.dataPath + "/Data/itemShop_Price.txt"))
+            using (StreamReader sReader = new StreamReader(Application.streamingAssetsPath + "/Data/itemShop_Type.txt"))
+            using(StreamReader sReader2 = new StreamReader(Application.streamingAssetsPath + "/Data/itemShop_Data.txt"))
+            using(StreamReader sReader3 = new StreamReader(Application.streamingAssetsPath + "/Data/itemShop_Price.txt"))
             using (JsonReader jReader = new JsonTextReader(sReader))
             using (JsonReader jReader2 = new JsonTextReader(sReader2))
             using (JsonReader jReader3 = new JsonTextReader(sReader3))
@@ -102,19 +102,19 @@ namespace Assets.Scripts.Controllers
         public void Save()
         {
             JsonSerializer serializer = new JsonSerializer();
-            using (StreamWriter streamWriter = new StreamWriter(Application.dataPath + "/Data/itemShop_Type.txt"))
+            using (StreamWriter streamWriter = new StreamWriter(Application.streamingAssetsPath + "/Data/itemShop_Type.txt"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 serializer.Serialize(writer, shopType);
             }
 
-            using (StreamWriter streamWriter = new StreamWriter(Application.dataPath + "/Data/itemShop_Data.txt"))
+            using (StreamWriter streamWriter = new StreamWriter(Application.streamingAssetsPath + "/Data/itemShop_Data.txt"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 serializer.Serialize(writer, shopDatas);
             }
 
-            using (StreamWriter streamWriter = new StreamWriter(Application.dataPath + "/Data/itemShop_Price.txt"))
+            using (StreamWriter streamWriter = new StreamWriter(Application.streamingAssetsPath + "/Data/itemShop_Price.txt"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 serializer.Serialize(writer, shopPrice);
